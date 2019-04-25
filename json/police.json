@@ -1,0 +1,37 @@
+{
+  "data":{
+    "policeLocation":[
+      {
+        "policeName": "济南桥西派出所",
+        "location" : [116.98 , 36.67],
+        "num":"0.7",
+        "status" : 0
+      },
+      {
+        "policeName": "济南桥东派出所",
+        "location" : [116.97 , 36.66],
+        "num":"0.5",
+        "status" : 1
+      },
+      {
+        "policeName": "济南桥北派出所",
+        "location" : [116.96 , 36.65],
+        "num":"0.4",
+        "status" : 1
+      },
+      {
+        "policeName": "济南桥仨派出所",
+        "location" : [116.94 , 36.64],
+        "num":"0.3",
+        "status" : 1
+      },
+      {
+        "policeName": "济南桥仨派出所",
+        "location" : [116.95 , 36.63],
+        "num":"0.2",
+        "status" : 1
+      }
+    ]
+  },
+  "resultCode": 0
+}

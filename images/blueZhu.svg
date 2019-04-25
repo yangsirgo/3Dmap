@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="113px" viewBox="0 0 18 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>蓝柱体</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7CE3FF" offset="0%"></stop>
+            <stop stop-color="#4093FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="前端设备-首页" transform="translate(-677.000000, -514.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <rect id="蓝柱体" x="677" y="514" width="18" height="113"></rect>
+        </g>
+    </g>
+</svg>
